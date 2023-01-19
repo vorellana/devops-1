@@ -18,7 +18,7 @@ app.get('/persons', (req, res) => {
     },
     {
       id: '003',
-      name: 'Luis Costa'
+      name: 'Luis Arteaga'
     },
   ])
 })
